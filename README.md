@@ -9,5 +9,6 @@
 3. The product list is displayed to choose items from.
  
 4. The billing receipt is generated after purchase of the items from the list of products.
+
 5.The json file gets updated after each purchase of the items.
 
